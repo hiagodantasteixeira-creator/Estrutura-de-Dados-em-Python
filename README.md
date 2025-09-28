@@ -10,7 +10,7 @@ Este repositório serve como um portfólio técnico e um guia de referência pes
 
 Abaixo está a lista de estruturas de dados implementadas, organizadas em pastas. Clique no nome de cada estrutura para navegar até o código e a documentação específica.
 
-* **[Pilhas ](./pilha/)**: Implementação de uma pilha seguindo o princípio LIFO (Last-In, First-Out)
+* **[Pilhas ](./Pilha/)**: Implementação de uma pilha seguindo o princípio LIFO (Last-In, First-Out)
   
 ## 🚀 Como Executar os Testes
 
